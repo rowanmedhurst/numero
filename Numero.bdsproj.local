@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/08 13:00:45.468.cpp,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.cpp=E:\dev\Numero\TFormMain.cpp</Transaction>
+    <Transaction>2015/05/08 13:00:45.468.h,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.h=E:\dev\Numero\TFormMain.h</Transaction>
+    <Transaction>2015/05/08 13:00:45.468.dfm,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.dfm=E:\dev\Numero\TFormMain.dfm</Transaction>
+    <Transaction>2015/05/08 13:00:52.625.bdsproj,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Project1.bdsproj=E:\dev\Numero\Numero.bdsproj</Transaction>
+    <Transaction>2015/06/05 12:38:46.281.cpp,E:\dev\Numero\Unit1.cpp=E:\dev\Numero\TFormWorking.cpp</Transaction>
+    <Transaction>2015/06/05 12:38:46.281.h,E:\dev\Numero\Unit1.h=E:\dev\Numero\TFormWorking.h</Transaction>
+    <Transaction>2015/06/05 12:38:46.281.dfm,E:\dev\Numero\Unit1.dfm=E:\dev\Numero\TFormWorking.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
